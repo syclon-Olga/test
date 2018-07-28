@@ -6,7 +6,7 @@ a genetic algorithm
 """
 import sys
 print('Python version:', sys.version)
-
+ 
 import nqueens as nq
 solver=nq.Solver_8_queens()
 best_fit, epoch_num, visualization = solver.solve()

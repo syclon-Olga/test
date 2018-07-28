@@ -1,6 +1,6 @@
 import numpy as np
 import sys
-
+ 
 board_size=8
 pop_size=100
 cross_prob=0.5 
